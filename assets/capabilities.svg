@@ -7,7 +7,6 @@
   </defs>
   <rect width="1200" height="170" rx="22" fill="#020617"/>
 
-  <!-- 4 equal panels -->
   <g>
     <rect x="18" y="18" width="278" height="134" rx="16" fill="url(#g)" stroke="#2DD4BF" stroke-opacity="0.35"/>
     <text x="157" y="70" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">BACKEND</text>

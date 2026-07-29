@@ -1,8 +1,6 @@
-<!-- Custom visual system — not a generic template -->
-
 <div align="center">
 
-  <img src="./assets/hero.svg" width="100%" alt="Mehboob Ali — Senior AI Engineer"/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/hero.svg" width="100%" alt="Mehboob Ali - Senior AI Engineer"/>
 
   <br/>
 
@@ -15,15 +13,15 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=2DD4BF&center=true&vCenter=true&width=720&lines=Building+systems+that+think+%26+respond;Agentic+AI+%C2%B7+Voice+%C2%B7+Vision+%C2%B7+FastAPI" alt="typing"/>
 
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/divider.svg" width="100%" alt=""/>
 
-  <img src="./assets/briefing.svg" width="100%" alt="System briefing"/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/briefing.svg" width="100%" alt="System briefing"/>
 
   <br/>
 
-  <img src="./assets/capabilities.svg" width="100%" alt="Capabilities"/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/capabilities.svg" width="100%" alt="Capabilities"/>
 
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/divider.svg" width="100%" alt=""/>
 
 </div>
 
@@ -47,40 +45,7 @@
 </div>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
-</div>
-
-## Signal
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebi-ali&theme=radical" alt="stats"/>
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebi-ali&theme=radical" alt="languages"/>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mebi-ali&bg_color=020617&color=2dd4bf&line=14b8a6&point=5eead4&area=true&hide_border=true&custom_title=Activity%20Pulse" width="100%" alt="activity pulse"/>
-</div>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
-</div>
-
-## 3D Contribution Field
-
-<div align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D contribution graph"/>
-</div>
-
-<div align="center">
-  <img src="./assets/divider.svg" width="100%" alt=""/>
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/divider.svg" width="100%" alt=""/>
 </div>
 
 ## Contribution Snake

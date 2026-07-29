@@ -15,7 +15,7 @@
 
   <text x="48" y="58" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="14" letter-spacing="3">SYSTEM BRIEFING</text>
   <text x="48" y="98" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="28" font-weight="700">I ship AI systems that survive production.</text>
-  <text x="48" y="136" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="16">Agentic backends · Voice AI · Computer Vision · FastAPI microservices</text>
+  <text x="48" y="136" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="16">Agentic backends | Voice AI | Computer Vision | FastAPI microservices</text>
 
   <rect x="48" y="160" width="320" height="2" fill="url(#line)">
     <animate attributeName="width" values="80;720;80" dur="4s" repeatCount="indefinite"/>

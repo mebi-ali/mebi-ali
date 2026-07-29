@@ -6,7 +6,6 @@
       <stop offset="100%" stop-color="#22D3EE" stop-opacity="0"/>
     </linearGradient>
   </defs>
-  <rect width="1200" height="40" fill="#020617" opacity="0"/>
   <rect x="100" y="18" width="1000" height="2" fill="url(#d)"/>
   <circle cx="600" cy="19" r="4" fill="#5EEAD4">
     <animate attributeName="r" values="3;6;3" dur="2.4s" repeatCount="indefinite"/>
