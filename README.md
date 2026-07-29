@@ -43,37 +43,37 @@
 
 <p align="center">
   <a href="https://github.com/mebi-ali/Agent-Powered-Research-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=Agent-Powered-Research-Assistant&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/Agent-Powered-Research-Assistant.svg" alt="Agent-Powered-Research-Assistant" />
   </a>
   <a href="https://github.com/mebi-ali/Simple-RAG-pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=Simple-RAG-pipeline&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/Simple-RAG-pipeline.svg" alt="Simple-RAG-pipeline" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mebi-ali/QA-chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=QA-chatbot&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/QA-chatbot.svg" alt="QA-chatbot" />
   </a>
   <a href="https://github.com/mebi-ali/accelerated_computing_on_finance">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=accelerated_computing_on_finance&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/accelerated_computing_on_finance.svg" alt="accelerated_computing_on_finance" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mebi-ali/FastAPI-All-Templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=FastAPI-All-Templates&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/FastAPI-All-Templates.svg" alt="FastAPI-All-Templates" />
   </a>
   <a href="https://github.com/mebi-ali/customer_monitoring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=customer_monitoring&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/customer_monitoring.svg" alt="customer_monitoring" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/mebi-ali/Trip-Scheduler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=Trip-Scheduler&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/Trip-Scheduler.svg" alt="Trip-Scheduler" />
   </a>
   <a href="https://github.com/mebi-ali/Titanic_Survival_Predication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mebi-ali&repo=Titanic_Survival_Predication&theme=dark&hide_border=true" />
+    <img src="https://gh-card.dev/repos/mebi-ali/Titanic_Survival_Predication.svg" alt="Titanic_Survival_Predication" />
   </a>
 </p>
 
@@ -82,16 +82,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mebi-ali&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mebi-ali&layout=compact&theme=dark&hide_border=true" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebi-ali&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebi-ali&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=mebi-ali&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mebi-ali&theme=darkhub&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mebi-ali&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mebi-ali&theme=github_dark" />
 </p>
 
 ---
