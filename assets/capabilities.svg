@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#134E4A"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="170" rx="22" fill="#020617"/>
+
+  <!-- 4 equal panels -->
+  <g>
+    <rect x="18" y="18" width="278" height="134" rx="16" fill="url(#g)" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <text x="157" y="70" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">BACKEND</text>
+    <text x="157" y="108" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">FastAPI APIs</text>
+  </g>
+  <g>
+    <rect x="314" y="18" width="278" height="134" rx="16" fill="url(#g)" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <text x="453" y="70" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">AGENTS</text>
+    <text x="453" y="108" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">LangGraph</text>
+  </g>
+  <g>
+    <rect x="610" y="18" width="278" height="134" rx="16" fill="url(#g)" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <text x="749" y="70" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">VISION</text>
+    <text x="749" y="108" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">YOLO / OpenCV</text>
+  </g>
+  <g>
+    <rect x="906" y="18" width="276" height="134" rx="16" fill="url(#g)" stroke="#2DD4BF" stroke-opacity="0.35"/>
+    <text x="1044" y="70" text-anchor="middle" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">REALTIME</text>
+    <text x="1044" y="108" text-anchor="middle" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">Voice AI</text>
+  </g>
+</svg>
