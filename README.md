@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working at **EpicMetry** on Agentic AI & multimodal backends
+- 🔭 I’m currently working as a **Senior AI Engineer** on Agentic AI & multimodal backends
 - 🌱 Building production systems with **FastAPI**, **LangChain / LangGraph**, and **Computer Vision**
 - 💬 Ask me about **Python backends**, **LLMs**, **YOLO / OpenCV**, and **realtime voice AI**
 - ⚡ Reduced end-to-end voice AI latency by **~30%** using LiveKit, ElevenLabs, OpenAI & Gemini
@@ -98,7 +98,7 @@
 
 ## 💼 Experience
 
-- **Senior AI Engineer** — EpicMetry *(Dec 2025 – Present)*
+- **Senior AI Engineer** *(Dec 2025 – Present)*
 - **Software Engineer** — Xloop Digital Services *(Mar 2023 – Dec 2025)*
 - **Data Engineer** — Digitized Planet, UK *(Jan 2022 – Feb 2023)*
 
