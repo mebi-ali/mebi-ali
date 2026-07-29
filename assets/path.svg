@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="100%" stop-color="#042F2E"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2DD4BF"/>
+      <stop offset="100%" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="260" rx="24" fill="#020617"/>
+  <rect x="16" y="16" width="1168" height="228" rx="18" fill="url(#panel)" stroke="#134E4A"/>
+
+  <text x="48" y="56" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="14" letter-spacing="3">PATH</text>
+
+  <!-- timeline rail -->
+  <rect x="56" y="84" width="3" height="130" fill="url(#accent)" opacity="0.7"/>
+
+  <!-- current -->
+  <circle cx="57.5" cy="96" r="6" fill="#2DD4BF"/>
+  <text x="84" y="92" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="12" letter-spacing="1">NOW</text>
+  <text x="84" y="116" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="20" font-weight="700">Senior AI Engineer</text>
+  <text x="84" y="140" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="14">Agentic AI | Voice | Vision | Production backends</text>
+
+  <!-- previous -->
+  <circle cx="57.5" cy="168" r="5" fill="#134E4A" stroke="#2DD4BF" stroke-width="2"/>
+  <text x="84" y="164" fill="#64748B" font-family="ui-monospace, Menlo, monospace" font-size="12" letter-spacing="1">PREVIOUSLY</text>
+  <text x="84" y="188" fill="#E2E8F0" font-family="ui-sans-serif, system-ui, sans-serif" font-size="16" font-weight="600">Software Engineer @ Xloop</text>
+  <text x="84" y="212" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="13">Data Engineer @ Digitized Planet (UK)</text>
+
+  <!-- education card -->
+  <rect x="720" y="78" width="440" height="140" rx="14" fill="#020617" stroke="#2DD4BF" stroke-opacity="0.35"/>
+  <text x="748" y="112" fill="#5EEAD4" font-family="ui-monospace, Menlo, monospace" font-size="12" letter-spacing="2">EDUCATION</text>
+  <text x="748" y="148" fill="#F8FAFC" font-family="ui-sans-serif, system-ui, sans-serif" font-size="18" font-weight="700">B.S. Computer Science</text>
+  <text x="748" y="178" fill="#94A3B8" font-family="ui-monospace, Menlo, monospace" font-size="14">FAST University</text>
+  <text x="748" y="202" fill="#64748B" font-family="ui-monospace, Menlo, monospace" font-size="13">2017 - 2021</text>
+</svg>

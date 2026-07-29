@@ -62,11 +62,10 @@
 
 <div align="center">
 
-**Previously** Software Engineer @ Xloop · Data Engineer @ Digitized Planet (UK)  
-**Education** B.S. Computer Science — FAST University
+  <img src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/main/assets/path.svg" width="100%" alt="Path and education"/>
 
-<br/>
+  <br/>
 
-<img src="https://komarev.com/ghpvc/?username=mebi-ali&label=Profile%20views&color=0f766e&style=for-the-badge" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=mebi-ali&label=Profile%20views&color=0f766e&style=for-the-badge" alt="views"/>
 
 </div>
