@@ -1,86 +1,83 @@
-<!-- Inspired by patterns from awesome-github-profile-readme -->
+<!--
+  Layout based on awesome-git-profile guide 07-layout:
+  https://github.com/flyingsquirrel0419/awesome-git-profile
+  Header → Typing → Social → About → Tech → Stats → Snake → Footer
+-->
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=700&height=50&lines=Hi%2C+I'm+Mehboob+Ali;Senior+AI+Engineer" alt="Hi, I'm Mehboob Ali"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mebiali/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:mebiali01@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg" alt="Email" height="28" width="36"/></a>
-  &nbsp;&nbsp;
-  <a href="https://www.kaggle.com/mebiali01"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="28" width="36"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/mebi-ali"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="28" width="36"/></a>
-</p>
+<!-- Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F766E,100:134E4A&height=180&section=header&text=Mehboob%20Ali&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=40&desc=Senior%20AI%20Engineer&descAlignY=62&descSize=16&descColor=94A3B8" alt="header"/>
 
----
+<!-- Typing animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Senior+AI+Engineer;Building+agentic+%26+multimodal+backends;FastAPI+%C2%B7+LLMs+%C2%B7+Computer+Vision" alt="Typing SVG"/>
+</a>
 
-### About me
+<br/>
 
-```python
-class MehboobAli:
-    def __init__(self):
-        self.role = "Senior AI Engineer"
-        self.location = "Karachi, Pakistan"
-        self.focus = [
-            "Agentic AI backends",
-            "Realtime voice AI",
-            "Computer vision services",
-            "Production FastAPI systems",
-        ]
-        self.impact = "~30% lower end-to-end voice AI latency"
-        self.open_to = "Remote"
+<!-- Social badges (once) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mebiali/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mebiali01@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mebiali01)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mebi-ali)
 
-    def ask_me_about(self):
-        return ["Python", "FastAPI", "LLMs", "LangGraph", "YOLO", "OpenCV"]
-```
+<br/>
 
-- Building production systems where **models meet infrastructure**
-- Previously: Software Engineer @ Xloop · Data Engineer @ Digitized Planet (UK)
-- Education: **B.S. Computer Science** — FAST University
+## About Me
 
----
+Hi, I'm **Mehboob Ali** — a Senior AI Engineer from Karachi, open to remote.
 
-### Languages & Tools
+I design low-latency backends for agentic AI, voice systems, and computer vision. I care about shipping production FastAPI services, not just notebooks. Recently cut end-to-end voice AI latency by ~30%.
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="36" alt="Django"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="36" alt="PyTorch"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="36" alt="OpenCV"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" alt="GitHub"/>
-</p>
+<br/>
 
-`LangChain` · `LangGraph` · `YOLO` · `LiveKit` · `OpenAI` · `Pandas`
+## Tech Stack
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebi-ali&theme=transparent" height="165" alt="GitHub stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebi-ali&theme=transparent" height="165" alt="Top languages"/>
-</p>
+## GitHub Stats
 
----
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mebi-ali&theme=radical" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mebi-ali&theme=radical" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mebi-ali&label=Profile%20views&color=0f766e&style=flat" alt="profile views"/>
-</p>
+<br/>
+
+## Contribution Snake
+
+<!-- Generated by Platane/snk Action → output branch (see .github/workflows/snake.yml) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mebi-ali/mebi-ali/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mebi-ali/mebi-ali/output/github-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/mebi-ali/mebi-ali/output/github-snake.svg"/>
+</picture>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mebi-ali&label=Profile%20views&color=0f766e&style=flat" alt="profile views"/>
+
+<!-- Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:134E4A,50:0F766E,100:0B1220&height=120&section=footer" alt="footer"/>
+
+</div>
