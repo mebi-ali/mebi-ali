@@ -7,12 +7,13 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
 
 jobs:
   generate:
